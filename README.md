@@ -1,3 +1,12 @@
+# A simple Laravel-Ticketautomat app
+
+This php app allows you to manage instances of Tickets and Ticketautomaten which can dispense the Tickets of appropriate price once enough money is "inserted" into the Ticketautomat.
+
+What follows is the original readme for laravel for convenience purposes.
+
+
+---
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
